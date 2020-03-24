@@ -1,0 +1,3 @@
+    -   operator new[] ???
+    -   convertTo() template -> returns array<U>, takes functuionPtr as parameter
+                int  float_to_int(float  const& f) {return  static_cast <int >(f);}
