@@ -1,0 +1,4 @@
+CPU
+Network
+Textual
+Memory

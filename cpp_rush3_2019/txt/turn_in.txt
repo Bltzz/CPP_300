@@ -1,0 +1,12 @@
+file: /proc/cpuinfo     -> Informations on CPU
+file: /proc/meminfo     -> Informations on memory
+file: /proc/diskstats   -> Informations on disks
+file: /proc/uptime      -> Informations on pc uptime
+/etc/hostname
+/proc/version
+/proc/stats
+/proc/stat
+command: lspci          -> Informations on internet devices
+
+[optional]
+    command : lsusb     -> Informations on USB devices
